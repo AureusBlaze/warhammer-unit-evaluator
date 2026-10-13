@@ -1,0 +1,12 @@
+# Vendor Flutter platform boilerplate so GitHub statistics reflect Dart & Python
+flutter_client/windows/** linguist-vendored
+flutter_client/linux/** linguist-vendored
+flutter_client/macos/** linguist-vendored
+flutter_client/ios/** linguist-vendored
+flutter_client/android/** linguist-vendored
+
+flutter_edge_app/windows/** linguist-vendored
+flutter_edge_app/linux/** linguist-vendored
+flutter_edge_app/macos/** linguist-vendored
+flutter_edge_app/ios/** linguist-vendored
+flutter_edge_app/android/** linguist-vendored
